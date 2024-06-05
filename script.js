@@ -6,7 +6,7 @@ let allSongs = [];
 
 const run = async () => {
 	// fetching song details ->
-	const response = await fetch('/songs-detail.json');
+	const response = await fetch('./songs-detail.json');
 			const result = await response.json();
 			console.log(result);
 			

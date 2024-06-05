@@ -1,0 +1,110 @@
+{
+  "songs": [
+    {
+      "title": "Case",
+      "singer": "Diljit Dosanjh",
+      "duration": "3:45",
+      "picture_url": "https://i.scdn.co/image/ab67616d00001e02ef759d4ae310020a06939e99",
+      "song_link": "https://cdnsongs.com/music/data/Punjabi/202309/Ghost/128/Case.mp3"
+    },
+    {
+      "title": "Still Rollin",
+      "singer": "Shubh",
+      "duration": "3:45",
+      "picture_url": "https://i.scdn.co/image/ab67616d00001e021a8c4618eda885a406958dd0",
+      "song_link": "https://cdnsongs.com/music/data/Punjabi/202305/Still_Rollin/128/Still_Rollin.mp3"
+    },
+    {
+      "title": "Ghost",
+      "singer": "Diljit Dosanjh",
+      "duration": "4:20",
+      "picture_url": "https://i.scdn.co/image/ab67616d00001e02cb2f9520171129a3df7a241a",
+      "song_link": "https://cdnsongs.com/music/data/Punjabi/202309/Ghost/128/Ghost.mp3"
+    },
+    {
+      "title": "Racks And Round",
+      "singer": "Sidhu Moosewala",
+      "duration": "5:10",
+      "picture_url": "https://i.scdn.co/image/ab67616d00001e021d1cc2e40d533d7bcebf5dae",
+      "song_link": "https://cdnsongs.com/music/data/Punjabi/202206/Moosetape_Full_Album/128/Racks_and_Rounds.mp3"
+    },
+    {
+      "title": "G.O.A.T",
+      "singer": "Diljit Dosanjh",
+      "duration": "5:10",
+      "picture_url": "https://i.scdn.co/image/ab67616d00001e02e62ca3548e739bd85eebbbc9",
+      "song_link": "https://cdnsongs.com/music/data/Single_Track/202007/G_O_A_T/128/G_O_A_T_1.mp3"
+    },
+    {
+      "title": "Hass Hass",
+      "singer": "Diljit Dosanjh",
+      "duration": "5:10",
+      "picture_url": "https://i.scdn.co/image/ab67616d00001e0274a99276badeec2675a9eaec",
+      "song_link": "https://cdnsongs.com/music/data/Single_Track/202310/Hass_Hass/128/Hass_Hass_1.mp3"
+    },
+    {
+      "title": "Lover",
+      "singer": "Diljit Dosanjh",
+      "duration": "5:10",
+      "picture_url": "https://i.scdn.co/image/ab67616d00001e02010ffee75fd78504689a7d33",
+      "song_link": "https://cdnsongs.com/music/data/Punjabi/202108/MoonChild_Era/128/Lover.mp3"
+    },
+    {
+      "title": "Baller",
+      "singer": "Shubh ",
+      "duration": "5:10",
+      "picture_url": "https://i.scdn.co/image/ab67616d00001e0252919a0cb296d317f6bbeebd",
+      "song_link": "https://cdnsongs.com/music/data/Single_Track/202209/Baller/128/Baller_1.mp3"
+    },
+    {
+      "title": "Bandana",
+      "singer": "Shubh ",
+      "duration": "5:10",
+      "picture_url": "https://i.scdn.co/image/ab67616d00001e0240f07cb85475289d1d40e0e7",
+      "song_link": "https://cdnsongs.com/music/data/Single_Track/202403/Bandana/128/Bandana_1.mp3"
+    },
+    {
+      "title": "One Love",
+      "singer": "Shubh ",
+      "duration": "5:10",
+      "picture_url": "https://i.scdn.co/image/ab67616d00001e02d7eb20034ff1c7b7bb3629de",
+      "song_link": "https://cdnsongs.com/music/data/Single_Track/202308/One_Love/128/One_Love_1.mp3"
+    },
+    {
+      "title": "MVP",
+      "singer": "Shubh",
+      "duration": "5:10",
+      "picture_url": "https://i.scdn.co/image/ab67616d00001e0229359add4a18d233f1183349",
+      "song_link": "https://cdnsongs.com/music/data/Single_Track/202405/MVP/128/MVP_1.mp3"
+    },
+    {
+      "title": "Winning speech'",
+      "singer": "Karan Aujla",
+      "duration": "5:10",
+      "picture_url": "https://i.scdn.co/image/ab67616d00001e0256d6644c7efe3f0d08fe76e5",
+      "song_link": "https://cdnsongs.com/music/data/Single_Track/202405/Winning_Speech/128/Winning_Speech_1.mp3"
+    },
+    {
+      "title": "Goin' Off",
+      "singer": "Karan Aujla",
+      "duration": "5:10",
+      "picture_url": "https://i.scdn.co/image/ab67616d00001e0231c0f6de953e05ca38652af4",
+      "song_link": "https://cdnsongs.com/music/data/Single_Track/202405/Goin_Off/128/Goin_Off_1.mp3"
+    },
+    {
+      "title": "Bachke Bachke",
+      "singer": "Karan Aujla",
+      "duration": "5:10",
+      "picture_url": "https://i.scdn.co/image/ab67616d00001e02cc16066bb1a3aa1507959794",
+      "song_link": "https://cdnsongs.com/music/data/Punjabi/202308/Making_Memories/128/Bachke_Bachke_Ft_Yarah.mp3"
+    },
+    {
+      "title": "Roll Deep",
+      "singer": "Teji Pannu",
+      "duration": "5:10",
+      "picture_url": "https://i.scdn.co/image/ab67616d00001e0205c9781a8dcb984d527b1bef",
+      "song_link": "https://cdnsongs.com/music/data/Single_Track/202205/Roll_Deep/128/Roll_Deep_1.mp3"
+    }
+  ]
+}
+

@@ -233,7 +233,7 @@ p#song-name {
 }
 li.bigger-list {
     height: 100%;
-    width: 25rem;
+    width: 22rem;
 }
 .right ul {
     justify-content: right;
@@ -281,3 +281,9 @@ li.bigger-list {
     border-radius: 6px; /* Rounded corners */
   }
   
+
+  @media screen and (max-width: 1370px){
+    li.bigger-list {
+        width: 15rem;
+    }
+  }

@@ -287,3 +287,100 @@ li.bigger-list {
         width: 15rem;
     }
   }
+
+
+  /* for mobile responsiveness -> */
+
+  @media screen and (max-width: 500px) {
+      .playlists {
+        display: none;
+    }
+    .login {
+        position: absolute;
+        width: 100vw;
+        left: 0px;
+        top: 0px;
+        height: 10vh;
+        visibility: visible;
+    }
+    .player {
+        position: absolute;
+        bottom: 0px;
+        width: 100vw;
+        left: 0px;
+        margin: 0px;
+        height: 10vh;
+        visibility: visible;
+    }
+    .navigation.grey-bg {
+        display: none;
+    }
+    .parent.row {
+        /* flex-direction: column-reverse; */
+        width: 100vw;
+        height: 100vh;
+    }
+    div.side-bar {
+        width: 100vw;
+        margin-top: 5.5rem;
+        height: 80vh;
+        overflow: hidden;
+    }
+    div.grey-bg {
+        margin-block: 0px;
+    }
+    body{
+        margin: 0px;
+        width: 100vw;
+        height: 100vh;
+
+    }
+    .libraries-list {
+        height: 98%;
+    }
+    div.side-content {
+        height: 100%;
+        place-content: flex-start;
+    }
+    .libraries.grey-bg {
+        height: 99%;
+        overflow: hidden;
+    }
+    .main{
+        visibility: hidden;
+    }
+
+    .smaller-list li {
+        margin-inline: 10px;
+    }
+    i.fa-solid.fa-play {    
+        right: -1px;
+    }
+    li.bigger-list {
+        width: 37%;
+    }
+    .smaller-list{
+        width: 25%;
+    }
+    .player {
+        border-radius: 0px;
+        border-top-left-radius: 10px;
+        border-top-right-radius: 10px;
+    }
+    .controls li{
+        margin: 0px;
+    }
+    .sm-design{
+        justify-content: space-between;
+    }
+    
+  }
+
+
+
+  .m-0{
+    margin: 0px;
+  }
+
+
+

@@ -322,8 +322,8 @@ li.bigger-list {
     }
     div.side-bar {
         width: 100vw;
-        margin-top: 5.5rem;
-        height: 80vh;
+        margin-top: 5rem;
+        height: 75vh;
         overflow: hidden;
     }
     div.grey-bg {
